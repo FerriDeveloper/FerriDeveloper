@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Soy TriangulitoG, Que Tal</b></h1>
+  <h1 align="center"><b>Soy Ferri</b></h1>
 </p>
 
 ***
@@ -10,14 +10,12 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/lAuVRoj.png" />
+<img align="right" height="270px" alt="GIF" src="https://imgur.com/cxW3IBl.png" />
 
 ### Sobre mi
-- 💻 Aprendiendo Javascript y HTML
-- 🥅 Mi futuro es ser un programador normal :)
+- 💻 Aprendiendo Javascript, Angular, CSS, C#, JQuerry, TypeScript y HTML
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Proyecto en curso: [Discord | DearthCraft](https://discord.gg/dearthcraft)
-- 😎 Tambien edito fotitos 🎞
+- 📬 Proyecto en curso: [Discord | DearthCraft](http://discord.dearthcraft.xyz)
 
 <br>
 
